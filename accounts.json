@@ -1,0 +1,37 @@
+[
+  {
+    "bankName": "Bank BNI",
+    "bankLogo": "bni.svg",
+    "accName": "Istifari Husna Rekinagara",
+    "accNo": "0346538490",
+    "accNoFormatted": "034 653 8490"
+  },
+  {
+    "bankName": "Bank BRI",
+    "bankLogo": "bri.svg",
+    "accName": "Istifari Husna Rekinagara",
+    "accNo": "004801070640505",
+    "accNoFormatted": "0048 01 070640 50 5"
+  },
+  {
+    "bankName": "Bank Mandiri",
+    "bankLogo": "mandiri.svg",
+    "accName": "Istifari Husna Rekinagara",
+    "accNo": "9000045235570",
+    "accNoFormatted": "900 00 4523557 0"
+  },
+  {
+    "bankName": "Dana",
+    "bankLogo": "dana.png",
+    "accName": "Novian Rifky",
+    "accNo": "081228629606",
+    "accNoFormatted": "0812 2862 9606"
+  },
+  {
+    "bankName": "Jenius",
+    "bankLogo": "jenius.png",
+    "accName": "Cahyo",
+    "accNo": "90014827496",
+    "accNoFormatted": "900 14 827 496"
+  }
+]

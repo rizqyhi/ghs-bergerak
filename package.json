@@ -1,0 +1,22 @@
+{
+  "name": "ghs-bergerak",
+  "version": "1.0.0",
+  "description": "Landing page for GHS bergerak, an initiation from Ikasmansatama",
+  "author": "Rizqy H. <hi@rizqy.me>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "rm -rf dist/* && parcel build src/*.html"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.6",
+    "stimulus": "^1.1.1",
+    "tailwindcss": "^1.2.0"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.1.0",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-asset-copier": "^1.0.0"
+  },
+  "assetsPath": "src/images/"
+}
