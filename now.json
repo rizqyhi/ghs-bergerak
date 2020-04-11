@@ -1,5 +1,8 @@
 {
   "env": {
     "DONATION_DATA_URL": "@donation-data-url"
-  }
+  },
+  "rewrites": [
+    { "source": "/poster-donasi", "destination": "/api/donasi-terakhir" }
+  ]
 }
