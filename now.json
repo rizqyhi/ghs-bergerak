@@ -1,0 +1,5 @@
+{
+  "env": {
+    "DONATION_DATA_URL": "@donation-data-url"
+  }
+}
