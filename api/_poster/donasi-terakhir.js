@@ -1,4 +1,4 @@
-const baseSvg = require('./base-donasi')
+const baseSvg = require('./base-donasi-svg')
 
 const template = `
 <!DOCTYPE html>
