@@ -15,12 +15,12 @@ async function getDonationsData() {
 
 const dates = {
   11: "Sabtu, 11 April 2020",
-  12: "Sabtu, 12 April 2020",
-  13: "Sabtu, 13 April 2020",
-  14: "Sabtu, 14 April 2020",
-  15: "Sabtu, 15 April 2020",
-  16: "Sabtu, 16 April 2020",
-  17: "Sabtu, 17 April 2020",
+  12: "Minggu, 12 April 2020",
+  13: "Senin, 13 April 2020",
+  14: "Selasa, 14 April 2020",
+  15: "Rabu, 15 April 2020",
+  16: "Kamis, 16 April 2020",
+  17: "Jumat, 17 April 2020",
 }
 
 const isDev = process.env.NOW_REGION === "dev1";
