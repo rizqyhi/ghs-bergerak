@@ -3,3 +3,4 @@
 /.cache
 
 .now
+.env
