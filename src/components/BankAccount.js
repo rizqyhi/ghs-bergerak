@@ -10,6 +10,7 @@ export default class BankAccount extends HTMLElement {
     const clip = new Clipboard(`#copy-${this._account.accNo}`)
     clip.on('success', e => {
       alert(`No. rekening untuk ${this._account.bankName} berhasil dicopy`)
+      ga('send', 'event', 'Rekening', 'copy', this._account.bankName)
     })
   }
 
